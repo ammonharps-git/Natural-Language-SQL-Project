@@ -6,7 +6,7 @@ This script requires a `config.json` file that contains the values for "openaiKe
 
 ## Picture of Schema
 
-![[Natural Language SQL Diagram]]
+![Natural Language SQL Diagram](https://github.com/user-attachments/assets/a0a685b7-2267-45e7-a721-c0dfa62d4461)
 
 ## Working Sample Question
 
