@@ -1,6 +1,6 @@
 # Natural Language SQL Project
 ## Description
-This database models a very basic architechure for a resturant's order taking system. 
+This database models a very basic architecture for a restaurant's order taking system.
 
 This script requires a `config.json` file that contains the values for "openaiKey" and "orgId" in order to interact with the OpenAI ChatGPT API. 
 
